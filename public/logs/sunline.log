@@ -1,0 +1,65 @@
+
+[2017-11-30T20:05:47.604] [DEBUG] default - Amila has sign up as Admin
+[2017-11-30T20:10:25.663] [DEBUG] default - All users are searched by 127.0.0.1
+[2017-11-30T20:13:52.600] [DEBUG] default - All users are searched by 127.0.0.1
+[2017-11-30T20:21:15.830] [DEBUG] default - Amila has searched by 127.0.0.1
+[2017-11-30T20:27:35.048] [DEBUG] default - undefinedhas updated by 127.0.0.1
+[2017-11-30T20:32:09.198] [DEBUG] default - undefinedhas updated by 127.0.0.1
+[2017-11-30T20:32:27.295] [DEBUG] default - undefinedhas updated by 127.0.0.1
+[2017-11-30T20:34:37.987] [DEBUG] default - undefined has updated by 127.0.0.1
+[2017-11-30T20:42:31.200] [DEBUG] default - undefined has updated by 127.0.0.1
+[2017-11-30T21:04:14.591] [DEBUG] default - Amila Viduranga Welikala has updated by 127.0.0.1
+[2017-11-30T21:37:09.676] [DEBUG] default - Amila Viduranga Welikala has searched by 127.0.0.1
+[2017-11-30T21:58:54.688] [DEBUG] default - Saman has sign up as Admin
+[2017-11-30T21:59:15.479] [DEBUG] default - Samanhas removed by 127.0.0.1
+[2017-11-30T22:00:44.307] [DEBUG] default - Saman has sign up as Admin
+[2017-11-30T22:00:59.039] [DEBUG] default - All users are searched by 127.0.0.1
+[2017-11-30T22:05:05.903] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-11-30T22:05:12.847] [DEBUG] default - UnSuccessfully attempt to logged to system by 127.0.0.1
+[2017-11-30T22:06:48.999] [DEBUG] default - UnSuccessfully attempt to logged to system by 127.0.0.1
+[2017-11-30T22:07:05.288] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-11-30T22:19:08.764] [DEBUG] default - 127.0.0.1 has sign up as Dulakshi Mathishewage
+[2017-11-30T22:25:13.384] [INFO] default - 127.0.0.1 has sign up as nipuna
+[2017-11-30T22:36:27.885] [INFO] default - 127.0.0.1 has sign up as kamal
+[2017-11-30T22:40:41.231] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-11-30T22:45:12.170] [WARN] default - UnSuccessfully attempt to logged to system by 127.0.0.1
+[2017-11-30T22:45:25.784] [INFO] default - 127.0.0.1 has sign up as kamal
+[2017-11-30T22:46:07.895] [WARN] default - All users are searched by 127.0.0.1
+[2017-11-30T23:01:16.407] [INFO] default - 127.0.0.1 has sign up as nipuna
+[2017-11-30T23:01:46.372] [WARN] default - UnSuccessfully attempt to logged to system by 127.0.0.1
+[2017-11-30T23:02:24.066] [WARN] default - UnSuccessfully attempt to logged to system by 127.0.0.1
+[2017-11-30T23:04:06.734] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-11-30T23:05:39.322] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-02T10:40:29.528] [WARN] default - nipuna has searched by 127.0.0.1
+[2017-12-02T11:00:50.898] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-02T11:04:42.825] [INFO] default - new commercial detail added by 127.0.0.1
+[2017-12-02T11:07:39.189] [INFO] default - new commercial detail added by 127.0.0.1
+[2017-12-02T11:28:16.621] [WARN] default - Commercial 2 has updated by 127.0.0.1
+[2017-12-02T16:46:53.278] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-02T16:47:08.790] [WARN] default - Commercial 1 has deleted by 127.0.0.1
+[2017-12-02T16:47:18.258] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-02T16:47:45.133] [INFO] default - All Films has searched by 127.0.0.1
+[2017-12-02T16:47:54.179] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-02T16:48:05.112] [INFO] default - All Print details has searched by 127.0.0.1
+[2017-12-02T16:48:18.230] [INFO] default - All Teledrama details has searched by 127.0.0.1
+[2017-12-02T17:38:07.363] [INFO] default - new commercial detail added by 127.0.0.1
+[2017-12-02T17:40:10.219] [INFO] default - new commercial detail added by 127.0.0.1
+[2017-12-02T17:41:31.204] [INFO] default - new commercial detail added by 127.0.0.1
+[2017-12-02T17:47:06.375] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-02T17:52:09.280] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-02T17:58:50.491] [INFO] default - 127.0.0.1 has sign up as Amila
+[2017-12-02T17:59:04.916] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-02T18:00:06.079] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-02T18:07:27.939] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-02T18:08:06.370] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-02T18:30:02.145] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-02T18:37:39.868] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-02T18:41:36.943] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-02T18:42:15.686] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-02T18:42:28.111] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-02T18:43:01.562] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-02T18:46:29.731] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-02T18:46:54.516] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-02T18:47:15.669] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-02T18:50:50.953] [INFO] default - new commercial detail added by 127.0.0.1
+[2017-12-02T19:04:43.209] [INFO] default - All Commercials has searched by 127.0.0.1
