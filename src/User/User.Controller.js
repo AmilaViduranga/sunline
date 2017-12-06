@@ -17,9 +17,9 @@ function UserController() {
                 data.password = hash;
                 UserModel.create(data).then(function(state) {
                     DebugModuler.info(data.processBy + " has sign up as " + data.userName);
-                    callback(state);
+                    callback({state: 200});
                 }).catch(function(err) {
-                    callback(err);
+                    callback({state: 400, error: err});
                 })
             }
         })
@@ -107,12 +107,12 @@ function UserController() {
             attributes:['id','email','userName','userType','password']
         }).then(function(instance) {
             if(instance) {
-                bcrypt.compare(data.password, instance.password, function(err, res) {
-                    if(res) {
+                bcrypt.compare(data.password, instance.password, function(err, response) {
+                    if(response == true) {
                         DebugModuler.debug("Successfully logged to system by "+ data.processBy);
                         var token = jwt.sign({ userName: instance.userName}, 'sunline web');
-                        callback(token);
-                    } else if(err) {
+                        callback({token: token});
+                    } else if(err || response == false) {
                         DebugModuler.warn("UnSuccessfully attempt to logged to system by "+ data.processBy);
                         callback({status: 404})
                     }

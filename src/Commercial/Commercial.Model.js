@@ -11,7 +11,8 @@ var Commercial = connection.define('commercial', {
     director: { type: Sequelize.STRING },
     editor: { type: Sequelize.STRING },
     concept: { type: Sequelize.STRING },
-    feedback: { type: Sequelize.STRING }
+    feedback: { type: Sequelize.STRING },
+    title: { type: Sequelize.STRING}
 }, {
     tableName: 'commercial',
     updatedAt: 'updatedAt',

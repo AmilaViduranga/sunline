@@ -79,6 +79,7 @@ function PrintController() {
                 id: data.id
             }
         }).then(function(result) {
+            result.destroy();
             DebugModuler.warn("Print info  "+result.id + " has deleted by "+ data.processBy);
             callback(result);
         }).catch(function (err) {

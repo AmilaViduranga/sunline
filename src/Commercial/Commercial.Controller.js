@@ -27,6 +27,7 @@ function CommercialController() {
             }
         }).then(function(instance) {
             instance.update({
+                title: data.title,
                 storyBoard: data.storyBoard,
                 url: data.url,
                 client: data.client,
@@ -82,6 +83,7 @@ function CommercialController() {
                 id: data.id
             }
         }).then(function(result) {
+            result.destroy();
             DebugModuler.warn("Commercial "+result.id + " has deleted by "+ data.processBy);
             callback(result);
         }).catch(function (err) {

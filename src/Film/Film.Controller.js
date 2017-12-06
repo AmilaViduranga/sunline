@@ -88,6 +88,7 @@ function FilmController() {
                 id: data.id
             }
         }).then(function(result) {
+            result.destroy();
             DebugModuler.warn("Film "+result.id + " has deleted by "+ data.processBy);
             callback(result);
         }).catch(function (err) {

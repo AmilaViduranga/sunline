@@ -9,7 +9,7 @@ var jwt         = require('express-jwt');
 /*
  * insert a new user to system / signup
  */
-router.post('/', jwt({secret: 'sunline web'}).unless({path:['/user/login']}), function (req, res) {
+router.post('/', function (req, res) {
     var instance = {
         userName: req.body.userName,
         password: req.body.password,
@@ -19,6 +19,11 @@ router.post('/', jwt({secret: 'sunline web'}).unless({path:['/user/login']}), fu
     }
 
     Controller.insertUser(instance, function(result) {
+        if(result['state'] == 200) {
+            res.status(200);
+        } else if(result['state'] == 400) {
+            res.status(400);
+        }
         res.send(result);
     })
 });

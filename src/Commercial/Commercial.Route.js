@@ -11,6 +11,7 @@ var jwt         = require('express-jwt');
  */
 router.post('/', jwt({secret: 'sunline web'}).unless({path:['/user/login']}),function(req, res) {
     var instance = {
+        title: req.body.title,
         storyBoard: req.body.storyBoard,
         url: req.body.url,
         client: req.body.client,
@@ -32,6 +33,7 @@ router.post('/', jwt({secret: 'sunline web'}).unless({path:['/user/login']}),fun
 router.put('/', jwt({secret: 'sunline web'}).unless({path:['/user/login']}), function(req, res) {
     var instance = {
         id: req.body.id,
+        title: req.body.title,
         storyBoard: req.body.storyBoard,
         url: req.body.url,
         client: req.body.client,

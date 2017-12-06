@@ -15,16 +15,17 @@ app.set('view engine', 'jade');
 
 // uncomment after placing your favicon in /public
 //app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
+
+
+app.use(cors());
 app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
-
-
 app.use('/', index);
-app.use(cors());
+
 
 
 // catch 404 and forward to error handler
@@ -45,7 +46,7 @@ app.use(function(err, req, res, next) {
   res.render('error');
 });
 
-var server = app.listen(8002,'localhost', function() {
+var server = app.listen(8002,'localhost', '0.0.0.0',function() {
     console.log('Server listening on port ' + server.address().port);
 });
 

@@ -84,6 +84,7 @@ function MusicVideoController() {
                 id: data.id
             }
         }).then(function(result) {
+            result.destroy();
             DebugModuler.warn("Music video "+result.id + " has deleted by "+ data.processBy);
             callback(result);
         }).catch(function (err) {

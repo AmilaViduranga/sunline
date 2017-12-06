@@ -82,6 +82,7 @@ function TeledramaController() {
                 id: data.id
             }
         }).then(function(result) {
+            result.destroy();
             DebugModuler.warn("Teledrama info  "+result.id + " has deleted by "+ data.processBy);
             callback(result);
         }).catch(function (err) {
