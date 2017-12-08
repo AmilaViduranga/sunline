@@ -111,7 +111,7 @@ function UserController() {
                     if(response == true) {
                         DebugModuler.debug("Successfully logged to system by "+ data.processBy);
                         var token = jwt.sign({ userName: instance.userName}, 'sunline web');
-                        callback({token: token});
+                        callback({userId:instance.id, token: token});
                     } else if(err || response == false) {
                         DebugModuler.warn("UnSuccessfully attempt to logged to system by "+ data.processBy);
                         callback({status: 404})

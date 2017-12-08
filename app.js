@@ -46,7 +46,7 @@ app.use(function(err, req, res, next) {
   res.render('error');
 });
 
-var server = app.listen(8002,'localhost', '0.0.0.0',function() {
+var server = app.listen(8002,'192.168.1.100', '0.0.0.0',function() {
     console.log('Server listening on port ' + server.address().port);
 });
 

@@ -462,3 +462,308 @@
 [2017-12-06T13:56:01.943] [INFO] default - All Commercials has searched by 127.0.0.1
 [2017-12-06T13:56:07.217] [WARN] default - Commercial 5 has deleted by 127.0.0.1
 [2017-12-06T13:56:08.315] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-06T14:04:42.098] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-06T14:06:07.773] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-06T14:11:02.310] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-06T14:11:02.397] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-06T14:11:05.225] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-06T14:11:05.228] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-06T14:12:12.683] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-06T14:35:45.277] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-06T14:36:36.047] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-06T15:34:57.048] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-06T15:34:57.048] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-06T15:34:59.507] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-06T15:34:59.523] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-06T15:35:01.706] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-06T18:46:25.944] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-06T19:08:27.640] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-06T19:09:24.668] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-06T19:09:31.006] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-06T21:42:43.901] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T10:13:03.740] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T10:13:03.850] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T10:13:06.080] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T10:13:06.080] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T10:13:14.166] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T10:13:14.166] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T10:13:17.014] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T10:13:17.033] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T10:13:21.342] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T10:13:21.342] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T10:13:24.611] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T10:15:07.622] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T10:15:17.796] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T10:16:06.809] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T10:17:22.946] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T10:21:55.974] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T10:22:42.580] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T10:23:29.704] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T10:23:29.838] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T10:23:59.943] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T10:27:01.204] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T10:27:25.924] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T10:29:08.970] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T10:29:40.317] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T10:31:12.611] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T10:32:49.168] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T10:54:35.302] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T10:54:53.293] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T10:56:18.399] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T10:59:39.297] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T11:25:06.938] [INFO] default - new music video detail added by 127.0.0.1
+[2017-12-07T11:25:08.249] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T11:37:35.213] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T11:39:50.785] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T11:40:19.899] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T11:40:46.220] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T11:41:13.618] [WARN] default - Music Video 1 has updated by 127.0.0.1
+[2017-12-07T11:41:14.875] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T11:41:19.344] [WARN] default - Music video 1 has deleted by 127.0.0.1
+[2017-12-07T11:41:20.846] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T11:41:25.345] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T11:41:44.281] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T11:41:57.514] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T11:42:01.091] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T11:43:00.342] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T11:46:35.786] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T11:47:01.032] [INFO] default - new music video detail added by 127.0.0.1
+[2017-12-07T11:47:02.379] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T11:48:31.714] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T11:49:35.201] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T11:50:05.673] [WARN] default - Music Video 2 has updated by 127.0.0.1
+[2017-12-07T11:50:07.010] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T11:50:28.731] [WARN] default - Music Video 2 has updated by 127.0.0.1
+[2017-12-07T11:50:29.906] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T11:51:02.448] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T11:51:07.224] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T12:03:10.838] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T12:03:10.885] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T12:03:13.302] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:03:44.349] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:03:48.753] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T12:03:51.260] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:15:06.545] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T12:18:37.240] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T12:18:37.241] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T12:18:41.700] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T12:18:41.700] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T12:18:45.355] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T12:18:45.355] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T12:21:23.289] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T12:21:23.304] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T12:23:03.346] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:24:24.674] [INFO] default - new commercial detail added by 127.0.0.1
+[2017-12-07T12:24:26.055] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:26:20.174] [INFO] default - new commercial detail added by 127.0.0.1
+[2017-12-07T12:26:21.699] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:27:09.131] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:27:24.814] [INFO] default - new commercial detail added by 127.0.0.1
+[2017-12-07T12:27:40.195] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:27:48.008] [INFO] default - new commercial detail added by 127.0.0.1
+[2017-12-07T12:27:49.411] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:28:53.923] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:30:06.427] [INFO] default - new commercial detail added by 127.0.0.1
+[2017-12-07T12:30:09.796] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:30:15.250] [INFO] default - new commercial detail added by 127.0.0.1
+[2017-12-07T12:30:19.159] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:32:18.448] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T12:32:18.463] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T12:32:20.971] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T12:32:20.987] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T12:33:44.324] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:34:12.447] [INFO] default - new commercial detail added by 127.0.0.1
+[2017-12-07T12:34:15.857] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:34:42.819] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:35:16.924] [INFO] default - new commercial detail added by 127.0.0.1
+[2017-12-07T12:35:18.473] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:35:57.063] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:36:05.610] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:38:34.498] [INFO] default - new commercial detail added by 127.0.0.1
+[2017-12-07T12:38:35.723] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:40:22.892] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:40:57.508] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T12:40:59.412] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:41:06.939] [WARN] default - Commercial 16 has deleted by 127.0.0.1
+[2017-12-07T12:41:08.505] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:41:15.135] [WARN] default - Commercial 12 has deleted by 127.0.0.1
+[2017-12-07T12:41:16.034] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:41:18.942] [WARN] default - Commercial 13 has deleted by 127.0.0.1
+[2017-12-07T12:41:19.704] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:41:22.321] [WARN] default - Commercial 14 has deleted by 127.0.0.1
+[2017-12-07T12:41:23.227] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:41:31.777] [WARN] default - Commercial 19 has deleted by 127.0.0.1
+[2017-12-07T12:41:32.565] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:41:36.740] [WARN] default - Commercial 15 has deleted by 127.0.0.1
+[2017-12-07T12:41:37.555] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:41:52.526] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T12:50:41.177] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:50:42.211] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T12:50:44.655] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:51:44.557] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T12:54:30.400] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:56:31.008] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:57:55.434] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T12:59:11.409] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T12:59:22.191] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:59:23.752] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T12:59:28.355] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T12:59:37.234] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T14:32:09.343] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T14:32:09.392] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2017-12-07T14:32:12.214] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T14:32:22.295] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T14:32:23.798] [INFO] default - All Films has searched by 127.0.0.1
+[2017-12-07T14:32:25.908] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T14:32:28.632] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T14:33:18.915] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T14:47:28.732] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T14:47:30.734] [INFO] default - All Films has searched by 127.0.0.1
+[2017-12-07T14:49:37.943] [INFO] default - new film detail added by 127.0.0.1
+[2017-12-07T14:49:39.381] [INFO] default - All Films has searched by 127.0.0.1
+[2017-12-07T14:50:04.059] [WARN] default - Film 1 has updated by 127.0.0.1
+[2017-12-07T14:50:05.118] [INFO] default - All Films has searched by 127.0.0.1
+[2017-12-07T14:51:52.830] [INFO] default - All Commercials has searched by 127.0.0.1
+[2017-12-07T14:51:58.455] [INFO] default - All Music videos has searched by 127.0.0.1
+[2017-12-07T14:51:59.812] [INFO] default - All Films has searched by 127.0.0.1
+[2017-12-07T14:54:48.152] [INFO] default - All Films has searched by 127.0.0.1
+[2017-12-07T14:55:45.787] [INFO] default - All Films has searched by 127.0.0.1
+[2017-12-07T14:56:26.466] [INFO] default - All Films has searched by 127.0.0.1
+[2017-12-07T15:01:38.180] [INFO] default - 192.168.1.103 has sign up as sunline
+[2017-12-07T15:01:51.773] [WARN] default - UnSuccessfully attempt to logged to system by 192.168.1.103
+[2017-12-07T15:01:51.788] [WARN] default - UnSuccessfully attempt to logged to system by 192.168.1.103
+[2017-12-07T15:01:54.804] [WARN] default - UnSuccessfully attempt to logged to system by 192.168.1.103
+[2017-12-07T15:01:54.804] [WARN] default - UnSuccessfully attempt to logged to system by 192.168.1.103
+[2017-12-07T15:01:57.388] [WARN] default - UnSuccessfully attempt to logged to system by 192.168.1.103
+[2017-12-07T15:01:57.388] [WARN] default - UnSuccessfully attempt to logged to system by 192.168.1.103
+[2017-12-07T15:01:59.954] [WARN] default - UnSuccessfully attempt to logged to system by 192.168.1.103
+[2017-12-07T15:01:59.954] [WARN] default - UnSuccessfully attempt to logged to system by 192.168.1.103
+[2017-12-07T15:02:03.196] [WARN] default - UnSuccessfully attempt to logged to system by 192.168.1.103
+[2017-12-07T15:02:03.196] [WARN] default - UnSuccessfully attempt to logged to system by 192.168.1.103
+[2017-12-07T15:02:12.549] [DEBUG] default - Successfully logged to system by 192.168.1.103
+[2017-12-07T15:02:12.549] [DEBUG] default - Successfully logged to system by 192.168.1.103
+[2017-12-07T15:02:17.311] [INFO] default - All Commercials has searched by 192.168.1.103
+[2017-12-07T15:02:35.099] [INFO] default - All Music videos has searched by 192.168.1.103
+[2017-12-07T15:02:38.026] [INFO] default - All Films has searched by 192.168.1.103
+[2017-12-07T15:05:46.494] [INFO] default - new film detail added by 192.168.1.103
+[2017-12-07T15:05:48.338] [INFO] default - All Films has searched by 192.168.1.103
+[2017-12-07T15:06:25.790] [INFO] default - All Films has searched by 192.168.1.100
+[2017-12-07T15:09:33.715] [DEBUG] default - Successfully logged to system by 192.168.1.104
+[2017-12-07T15:09:33.715] [DEBUG] default - Successfully logged to system by 192.168.1.104
+[2017-12-07T15:09:39.938] [INFO] default - All Commercials has searched by 192.168.1.104
+[2017-12-07T15:10:36.963] [INFO] default - All Films has searched by 192.168.1.100
+[2017-12-07T15:10:41.830] [INFO] default - All Films has searched by 192.168.1.103
+[2017-12-07T15:10:56.341] [INFO] default - All Commercials has searched by 192.168.1.104
+[2017-12-07T15:11:05.533] [INFO] default - All Films has searched by 192.168.1.100
+[2017-12-07T15:11:10.930] [INFO] default - All Films has searched by 192.168.1.103
+[2017-12-07T15:11:44.962] [INFO] default - All Commercials has searched by 192.168.1.100
+[2017-12-07T15:11:50.057] [INFO] default - All Music videos has searched by 192.168.1.100
+[2017-12-07T15:11:51.573] [INFO] default - All Commercials has searched by 192.168.1.100
+[2017-12-07T15:14:03.990] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-07T15:14:03.990] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-07T15:14:06.639] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-07T15:14:06.639] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-07T15:14:15.588] [INFO] default - All Commercials has searched by 192.168.1.100
+[2017-12-07T15:38:02.533] [INFO] default - All Music videos has searched by 192.168.1.100
+[2017-12-07T15:38:05.797] [INFO] default - All Films has searched by 192.168.1.100
+[2017-12-07T15:39:00.482] [INFO] default - All Commercials has searched by 192.168.1.100
+[2017-12-07T15:40:41.199] [INFO] default - All Films has searched by 192.168.1.100
+[2017-12-07T15:46:33.684] [INFO] default - All Commercials has searched by 192.168.1.100
+[2017-12-07T15:47:02.143] [INFO] default - All Music videos has searched by 192.168.1.100
+[2017-12-07T15:47:07.297] [INFO] default - All Films has searched by 192.168.1.100
+[2017-12-07T15:47:13.112] [WARN] default - Film 2 has deleted by 192.168.1.100
+[2017-12-07T15:47:14.272] [INFO] default - All Films has searched by 192.168.1.100
+[2017-12-07T15:53:00.590] [INFO] default - All Films has searched by 192.168.1.103
+[2017-12-07T15:58:38.663] [INFO] default - All Commercials has searched by 192.168.1.104
+[2017-12-07T16:38:24.345] [INFO] default - All Print details has searched by 192.168.1.100
+[2017-12-07T16:38:29.792] [INFO] default - All Films has searched by 192.168.1.103
+[2017-12-07T16:39:08.529] [INFO] default - new print detail added by 192.168.1.100
+[2017-12-07T16:39:10.704] [INFO] default - All Print details has searched by 192.168.1.100
+[2017-12-07T16:39:52.193] [WARN] default - print info 1 has updated by 192.168.1.100
+[2017-12-07T16:39:53.860] [INFO] default - All Print details has searched by 192.168.1.100
+[2017-12-07T16:40:14.324] [WARN] default - Print info  1 has deleted by 192.168.1.100
+[2017-12-07T16:40:15.387] [INFO] default - All Print details has searched by 192.168.1.100
+[2017-12-07T16:40:20.674] [INFO] default - All Print details has searched by 192.168.1.100
+[2017-12-08T13:57:17.282] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T13:57:17.297] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T13:57:21.298] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T13:57:21.300] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T13:57:24.410] [INFO] default - All Teledrama details has searched by 192.168.1.100
+[2017-12-08T13:58:44.092] [INFO] default - new teledrama detail added by 192.168.1.100
+[2017-12-08T13:58:46.939] [INFO] default - All Teledrama details has searched by 192.168.1.100
+[2017-12-08T13:59:07.146] [WARN] default - Teledrama info 1 has updated by 192.168.1.100
+[2017-12-08T13:59:08.395] [INFO] default - All Teledrama details has searched by 192.168.1.100
+[2017-12-08T14:00:00.868] [INFO] default - All Teledrama details has searched by 192.168.1.100
+[2017-12-08T14:00:06.585] [INFO] default - All Teledrama details has searched by 192.168.1.100
+[2017-12-08T14:00:12.933] [WARN] default - Teledrama info 1 has updated by 192.168.1.100
+[2017-12-08T14:00:14.007] [INFO] default - All Teledrama details has searched by 192.168.1.100
+[2017-12-08T14:04:17.571] [INFO] default - All Teledrama details has searched by 192.168.1.100
+[2017-12-08T14:05:15.820] [INFO] default - All Teledrama details has searched by 192.168.1.100
+[2017-12-08T14:06:04.337] [INFO] default - All Teledrama details has searched by 192.168.1.100
+[2017-12-08T14:07:07.297] [INFO] default - All Teledrama details has searched by 192.168.1.100
+[2017-12-08T14:07:33.636] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T14:07:33.636] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T14:07:38.548] [INFO] default - All Commercials has searched by 192.168.1.100
+[2017-12-08T14:07:41.931] [INFO] default - All Music videos has searched by 192.168.1.100
+[2017-12-08T14:07:43.261] [INFO] default - All Films has searched by 192.168.1.100
+[2017-12-08T14:07:46.437] [INFO] default - All Print details has searched by 192.168.1.100
+[2017-12-08T14:07:47.973] [INFO] default - All Teledrama details has searched by 192.168.1.100
+[2017-12-08T14:07:51.116] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T14:07:51.116] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T14:07:53.782] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T14:07:53.782] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T14:07:55.984] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T14:07:55.984] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T14:08:14.999] [INFO] default - 192.168.1.100 has sign up as sliit
+[2017-12-08T14:08:23.551] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T14:08:23.551] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T14:08:57.530] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T14:08:57.530] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T14:09:00.028] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T14:09:00.028] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T14:09:01.816] [INFO] default - All Teledrama details has searched by 192.168.1.100
+[2017-12-08T14:09:07.052] [INFO] default - All Print details has searched by 192.168.1.100
+[2017-12-08T14:09:46.297] [INFO] default - new print detail added by 192.168.1.100
+[2017-12-08T14:09:47.759] [INFO] default - All Print details has searched by 192.168.1.100
+[2017-12-08T14:09:58.809] [INFO] default - All Print details has searched by 192.168.1.100
+[2017-12-08T14:11:17.961] [WARN] default - print info 2 has updated by 192.168.1.100
+[2017-12-08T14:11:19.256] [INFO] default - All Print details has searched by 192.168.1.100
+[2017-12-08T14:11:24.722] [INFO] default - All Print details has searched by 192.168.1.100
+[2017-12-08T14:12:52.652] [INFO] default - All Print details has searched by 192.168.1.100
+[2017-12-08T14:13:18.786] [WARN] default - print info 2 has updated by 192.168.1.100
+[2017-12-08T14:13:19.943] [INFO] default - All Print details has searched by 192.168.1.100
+[2017-12-08T14:13:35.741] [INFO] default - All Commercials has searched by 192.168.1.100
+[2017-12-08T14:13:43.070] [INFO] default - All Music videos has searched by 192.168.1.100
+[2017-12-08T14:13:44.836] [INFO] default - All Films has searched by 192.168.1.100
+[2017-12-08T14:13:46.973] [INFO] default - All Print details has searched by 192.168.1.100
+[2017-12-08T14:13:48.115] [INFO] default - All Teledrama details has searched by 192.168.1.100
+[2017-12-08T14:15:10.989] [INFO] default - All Commercials has searched by 192.168.1.100
+[2017-12-08T14:15:18.671] [INFO] default - All Commercials has searched by 192.168.1.100
+[2017-12-08T14:15:22.638] [INFO] default - All Commercials has searched by 192.168.1.100
+[2017-12-08T14:15:26.162] [INFO] default - All Print details has searched by 192.168.1.100
+[2017-12-08T14:15:39.760] [INFO] default - All Commercials has searched by 192.168.1.100
+[2017-12-08T14:15:42.663] [INFO] default - All Films has searched by 192.168.1.100
+[2017-12-08T14:17:24.806] [INFO] default - All Commercials has searched by 192.168.1.100
+[2017-12-08T14:17:27.009] [INFO] default - All Music videos has searched by 192.168.1.100
+[2017-12-08T14:17:28.255] [INFO] default - All Films has searched by 192.168.1.100
+[2017-12-08T14:17:30.204] [INFO] default - All Print details has searched by 192.168.1.100
+[2017-12-08T14:17:31.057] [INFO] default - All Teledrama details has searched by 192.168.1.100
+[2017-12-08T14:19:19.711] [INFO] default - All Commercials has searched by 192.168.1.100
+[2017-12-08T14:19:21.422] [INFO] default - All Teledrama details has searched by 192.168.1.100
+[2017-12-08T14:19:55.791] [INFO] default - All Commercials has searched by 192.168.1.100
+[2017-12-08T14:20:56.040] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T14:20:56.069] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T14:20:58.096] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T14:20:58.097] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T14:21:00.074] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T14:21:00.090] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T14:21:04.229] [INFO] default - All Commercials has searched by 192.168.1.100
+[2017-12-08T14:25:25.787] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T14:25:25.787] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T14:25:30.308] [INFO] default - All Commercials has searched by 192.168.1.100
+[2017-12-08T15:53:46.290] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T15:53:46.292] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T15:53:48.540] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T15:53:48.541] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-08T15:54:06.751] [INFO] default - All Print details has searched by 192.168.1.100
+[2017-12-08T15:54:48.306] [INFO] default - All Commercials has searched by 192.168.1.100
