@@ -16,7 +16,11 @@ function CommentController() {
      * get all comments
      * */
     this.getAllComments = function(callback) {
-        CommentModel.findAll().then(function(data) {
+        CommentModel.findAll({
+            order: [
+                ['createdAt', 'DESC']
+            ]
+        }).then(function(data) {
             callback(data);
         }).catch(function(err) {
             callback(err);
