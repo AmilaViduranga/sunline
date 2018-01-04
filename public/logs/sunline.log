@@ -767,3 +767,178 @@
 [2017-12-08T15:53:48.541] [DEBUG] default - Successfully logged to system by 192.168.1.100
 [2017-12-08T15:54:06.751] [INFO] default - All Print details has searched by 192.168.1.100
 [2017-12-08T15:54:48.306] [INFO] default - All Commercials has searched by 192.168.1.100
+[2017-12-11T10:42:57.894] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-11T10:42:57.925] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-11T10:43:00.551] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-11T10:43:00.572] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-11T10:43:02.606] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-11T10:43:02.612] [DEBUG] default - Successfully logged to system by 192.168.1.100
+[2017-12-11T10:43:08.057] [INFO] default - All Commercials has searched by 192.168.1.100
+[2017-12-11T10:43:51.634] [INFO] default - All Print details has searched by 192.168.1.100
+[2017-12-11T10:44:54.242] [INFO] default - All Teledrama details has searched by 192.168.1.100
+[2017-12-11T10:45:03.507] [INFO] default - All Commercials has searched by 192.168.1.100
+[2017-12-11T10:45:05.152] [INFO] default - All Music videos has searched by 192.168.1.100
+[2017-12-11T10:45:06.308] [INFO] default - All Films has searched by 192.168.1.100
+[2018-01-02T10:46:21.445] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2018-01-02T10:46:21.523] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2018-01-02T10:49:32.089] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T13:18:21.420] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2018-01-02T13:18:21.420] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2018-01-02T13:19:20.393] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T13:19:46.039] [INFO] default - All Music videos has searched by 127.0.0.1
+[2018-01-02T13:19:56.858] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T14:02:40.654] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2018-01-02T14:02:40.670] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2018-01-02T14:02:50.879] [INFO] default - All Music videos has searched by 127.0.0.1
+[2018-01-02T14:02:51.934] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T16:35:50.099] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T16:36:24.131] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T16:37:20.527] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T16:38:28.107] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T16:39:13.512] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T16:39:42.424] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T16:44:01.045] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T17:02:13.168] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T17:05:13.454] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T17:05:21.211] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T17:06:15.104] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T17:06:26.721] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T17:11:29.257] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T17:12:28.131] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T17:12:46.802] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T17:13:05.478] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T17:14:39.036] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T17:15:43.948] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T17:17:46.918] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T17:17:57.745] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T17:18:07.022] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T17:18:22.200] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T17:27:27.344] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T17:28:57.379] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T17:31:02.613] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T17:34:18.909] [INFO] default - new commercial detail added by 127.0.0.1
+[2018-01-02T17:34:20.512] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-02T17:34:30.309] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T10:00:25.700] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T10:04:40.595] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T10:06:28.536] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T10:06:59.728] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T10:07:23.167] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T10:08:31.884] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T10:09:28.905] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T10:09:52.171] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T10:10:35.769] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T10:10:48.762] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T10:12:21.666] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T10:12:40.536] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T10:13:26.043] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T10:13:58.643] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T10:37:29.584] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T10:42:37.530] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T10:48:59.019] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T10:50:05.092] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T10:51:58.618] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T10:52:55.295] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T11:20:32.095] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T11:27:46.364] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T11:35:00.749] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T11:37:30.525] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T11:39:02.001] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T11:46:47.736] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T11:47:38.290] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T11:48:14.958] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T11:48:54.024] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T11:49:10.921] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T11:49:46.142] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T11:50:33.926] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T11:53:35.500] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T12:11:30.265] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T12:12:27.572] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T12:13:34.279] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T12:14:34.678] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T12:16:46.792] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T12:17:10.841] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T12:21:01.556] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T12:21:16.150] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T12:24:03.791] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T12:25:13.352] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T12:25:27.399] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T12:29:46.436] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T12:30:21.961] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T12:30:41.147] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T12:31:07.285] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T12:32:12.562] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T12:32:44.868] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T12:43:49.289] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T12:54:03.726] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T12:56:09.672] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T12:59:59.508] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T13:00:04.822] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T13:09:40.711] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T13:09:47.294] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T13:12:08.064] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-03T13:13:20.045] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-03T13:13:47.797] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T13:13:51.492] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-03T13:14:35.305] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T13:14:55.093] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-03T13:15:28.289] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T13:22:30.723] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-03T13:28:24.969] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-03T13:28:30.304] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-03T13:29:37.363] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-03T13:31:41.643] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T13:32:24.941] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-03T16:09:44.419] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T16:10:00.889] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-03T16:10:37.092] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T16:19:24.757] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-03T16:28:34.989] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-03T16:29:22.975] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-03T16:32:06.404] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-03T16:34:54.347] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-03T16:35:10.433] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-03T16:37:55.979] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-03T16:40:19.861] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-03T16:52:39.212] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-03T16:55:17.187] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-03T16:55:48.801] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-03T16:56:47.130] [INFO] default - All Music videos has searched by 127.0.0.1
+[2018-01-03T16:58:18.394] [INFO] default - All Music videos has searched by 127.0.0.1
+[2018-01-03T16:58:57.681] [INFO] default - All Music videos has searched by 127.0.0.1
+[2018-01-03T16:59:28.544] [INFO] default - All Music videos has searched by 127.0.0.1
+[2018-01-03T16:59:58.697] [INFO] default - All Music videos has searched by 127.0.0.1
+[2018-01-03T17:00:37.319] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T17:00:39.791] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-03T17:00:42.234] [INFO] default - All Music videos has searched by 127.0.0.1
+[2018-01-03T17:02:02.595] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T17:02:08.161] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-03T17:02:10.840] [INFO] default - All Music videos has searched by 127.0.0.1
+[2018-01-03T17:02:24.018] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-03T17:02:27.046] [INFO] default - All Music videos has searched by 127.0.0.1
+[2018-01-03T17:05:07.942] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-03T17:05:16.070] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-03T17:05:19.738] [INFO] default - All Music videos has searched by 127.0.0.1
+[2018-01-03T17:06:36.326] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-04T09:48:52.059] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-04T09:49:01.047] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-04T09:49:03.101] [INFO] default - All Music videos has searched by 127.0.0.1
+[2018-01-04T09:50:08.665] [INFO] default - All Music videos has searched by 127.0.0.1
+[2018-01-04T09:52:23.835] [INFO] default - All Music videos has searched by 127.0.0.1
+[2018-01-04T09:59:33.753] [INFO] default - All Music videos has searched by 127.0.0.1
+[2018-01-04T10:02:09.697] [INFO] default - All Music videos has searched by 127.0.0.1
+[2018-01-04T10:03:39.185] [INFO] default - All Music videos has searched by 127.0.0.1
+[2018-01-04T10:13:47.044] [INFO] default - All Music videos has searched by 127.0.0.1
+[2018-01-04T10:15:14.763] [INFO] default - All Music videos has searched by 127.0.0.1
+[2018-01-04T10:15:43.392] [INFO] default - All Music videos has searched by 127.0.0.1
+[2018-01-04T10:19:33.489] [INFO] default - All Teledrama details has searched by 127.0.0.1
+[2018-01-04T10:19:50.181] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-04T10:21:22.413] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-04T10:21:30.310] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-04T10:21:32.656] [INFO] default - All Music videos has searched by 127.0.0.1
+[2018-01-04T10:21:36.444] [INFO] default - All Teledrama details has searched by 127.0.0.1
+[2018-01-04T10:21:58.930] [INFO] default - All Teledrama details has searched by 127.0.0.1
+[2018-01-04T10:22:06.109] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-04T10:22:08.960] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-04T10:22:10.701] [INFO] default - All Music videos has searched by 127.0.0.1
+[2018-01-04T10:22:12.581] [INFO] default - All Teledrama details has searched by 127.0.0.1
