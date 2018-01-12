@@ -962,3 +962,16 @@
 [2018-01-04T13:23:24.150] [INFO] default - All Films has searched by 192.168.1.101
 [2018-01-04T13:25:29.998] [INFO] default - All Films has searched by 192.168.1.101
 [2018-01-04T13:27:57.526] [INFO] default - All Films has searched by 192.168.1.101
+[2018-01-04T13:32:41.189] [INFO] default - All Commercials has searched by 192.168.1.104
+[2018-01-04T13:32:56.782] [INFO] default - All Films has searched by 192.168.1.101
+[2018-01-04T13:33:03.114] [INFO] default - All Teledrama details has searched by 192.168.1.104
+[2018-01-04T13:33:51.550] [INFO] default - All Films has searched by 192.168.1.104
+[2018-01-04T13:34:53.629] [INFO] default - All Films has searched by 192.168.1.101
+[2018-01-08T10:41:14.355] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-08T10:41:17.843] [INFO] default - All Films has searched by 127.0.0.1
+[2018-01-08T10:41:19.717] [INFO] default - All Music videos has searched by 127.0.0.1
+[2018-01-08T10:41:22.897] [INFO] default - All Teledrama details has searched by 127.0.0.1
+[2018-01-08T14:32:34.786] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-12T13:39:51.594] [INFO] default - All Commercials has searched by 127.0.0.1
+[2018-01-12T14:10:36.754] [DEBUG] default - Successfully logged to system by 127.0.0.1
+[2018-01-12T14:10:36.766] [DEBUG] default - Successfully logged to system by 127.0.0.1
