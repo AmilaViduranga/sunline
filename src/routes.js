@@ -9,6 +9,7 @@ var PrintRoute      = require('./Print/Print.Route');
 var TeledramaRoute  = require('./Teledrama/Teledrama.Route');
 var CommentRoute    = require('./Comments/Comment.Route');
 var founderRoute    = require('./Founder/Founder.Route');
+var foundationImage = require('./FoundationImages/FoundationImages.Route');  
 
 router.use('/user/', UserRoute);
 router.use('/commercial/', CommercialRoute);
@@ -18,5 +19,6 @@ router.use('/print/', PrintRoute);
 router.use('/teledrama/', TeledramaRoute);
 router.use('/comment/', CommentRoute);
 router.use('/amarakoon/founder/', founderRoute);
+router.use('/amarakoon/images_galary/', foundationImage);
 
 module.exports = router;
